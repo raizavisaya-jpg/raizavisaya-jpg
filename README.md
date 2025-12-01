@@ -8,7 +8,7 @@ Raiza M. Visaya
 - Studying at New Era University
 
 ## Certifications
-- 
+- SQL and Relational Databases 101 [https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d]
 
 ## Skillsets
 - UI/UX Design
