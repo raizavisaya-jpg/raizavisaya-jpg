@@ -16,7 +16,7 @@
     <td>
       <ul>
         <li>
-          <a href="https://courses.cognitiveclass.ai/certificates/c596d77d4345487194e585abb23af901" target="_blank">
+          <a href="https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d" target="_blank">
             SQL and Relational Databases 101 🔗
           </a>
         </li>
