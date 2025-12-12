@@ -25,6 +25,11 @@
             Oracle Cloud Infrastructure 2025 Certified Foundations Associate 🔗
           </a>
         </li>
+        <li>
+          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=35ACD0E996F9038AF9E5079D0E39E0E8D2B3460175901E2C10B0EA3860682291" target="_blank">
+            Oracle Data Platform 2025 Certified Foundations Associate 🔗
+          </a>
+        </li>
       </ul>
     </td>
   </tr>
