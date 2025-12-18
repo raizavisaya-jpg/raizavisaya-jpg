@@ -30,6 +30,11 @@
             Oracle Data Platform 2025 Certified Foundations Associate 🔗
           </a>
         </li>
+        <li>
+          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FEEDA5C7C1C58C448FCC222D78E124189B6D51692F1C4868F114922A4EA2755" target="_blank">
+            Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate 🔗
+          </a>
+        </li>
       </ul>
     </td>
   </tr>
