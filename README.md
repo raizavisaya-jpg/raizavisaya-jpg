@@ -35,6 +35,11 @@
             Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate 🔗
           </a>
         </li>
+        <li>
+          <a href="https://courses.cognitiveclass.ai/certificates/c3342dddc9434b93b148ad1affd1007a" target="_blank">
+            NoSQL and DBaaS 101 🔗
+          </a>
+        </li>
       </ul>
     </td>
   </tr>
