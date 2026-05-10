@@ -1,5 +1,9 @@
 <h1>Hi! I'm Raiza Visaya 👋</h1>
 
+<p>
+  I am continuously improving my skills in programming, particularly in Java and JavaScript, as well as exploring database systems and modern development tools. I value clean code, logical thinking, and continuous learning in the field of technology.
+</p>
+
 <table>
   <tr>
     <th>🎓 Education</th>
@@ -7,6 +11,7 @@
       <ul>
         <li>2nd year student – Bachelor of Science in Information Technology</li>
         <li>New Era University</li>
+        <li>2021 - Present</li>
       </ul>
     </td>
   </tr>
@@ -48,8 +53,19 @@
     <th>🛠️ Skillsets</th>
     <td>
       <ul>
-        <li>UI/UX Design 🎨</li>
-        <li>HTML, CSS 💻</li>
+        <li>Programming: Java, JavaScript, Python, SQL</li>
+        <li>Databases: IBM DB2 Cloud</li>
+        <li>Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Pentaho</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <th>📫 Reach Me</th>
+    <td>
+      <ul>
+        <li>LinkedIn: https://www.linkedin.com/in/raiza-m-visaya-0a7a25382/</li>
+        <li>Email: raizamerzavisaya@gmail.com</li>
       </ul>
     </td>
   </tr>
